@@ -35,23 +35,23 @@ MySQL · Advanced SQL (CTEs, Window Functions, Subqueries, Aggregations)
 ## Query Results
 
 ### Pareto — Top Sellers by Revenue
-![Pareto Campaigns](results/Pareto_campaigns.png)
+![Pareto Campaigns](results/Pareto_campaigns.csv)
 
 ### CTR and ConvRate by campaign type and country
-![CTR_ConvRate Summary](results/CTR_vs_ConvRate.png)
+![CTR_ConvRate Summary](results/CTR_vs_ConvRate.csv)
 
 ### Conversion Funnel
-![Conversion_Funnel](results/Conversion_Funnel.png)
+![Conversion_Funnel](results/Conversion_Funnel.csv)
 
 ### Campaign Cost vs Conversion Rate
-![Campaign_cost_vs_ConvRate](results/Campaign_cost_vs_ConvRate.png)
+![Campaign_cost_vs_ConvRate](results/Campaign_cost_vs_ConvRate.csv)
 
 ### Changes in Seller's Revenue
-![Sellers_revenue_change](results/Sellers_revenue_change.png)
+![Sellers_revenue_change](results/Sellers_revenue_change.csv)
 
 ### Seller's Active over 12 months
-![Seller_Activity](results/Seller_Activity.png)
+![Seller_Activity](results/Seller_Activity.csv)
 
 ### Rolling 3-month Seller ROAS
-![ROAS_rolling_average](results/ROAS_rolling_average.png)
+![ROAS_rolling_average](results/ROAS_rolling_average.csv)
 
