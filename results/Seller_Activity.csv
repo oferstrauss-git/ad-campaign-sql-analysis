@@ -1,0 +1,41 @@
+country,campaign_type,total_sellers,sellers_active_after_12_months,pct_active_after_12_months
+Australia,Automatic,4,2,50.00
+Australia,Hybrid,4,2,50.00
+Australia,Manual,5,2,40.00
+Australia,Store_Run,6,6,100.00
+Canada,Automatic,8,2,25.00
+Canada,Hybrid,5,2,40.00
+Canada,Manual,7,3,42.86
+Canada,Store_Run,8,2,25.00
+France,Automatic,9,7,77.78
+France,Hybrid,15,9,60.00
+France,Manual,8,4,50.00
+France,Store_Run,13,10,76.92
+Germany,Automatic,4,3,75.00
+Germany,Hybrid,5,2,40.00
+Germany,Manual,3,1,33.33
+Germany,Store_Run,9,4,44.44
+Israel,Automatic,9,4,44.44
+Israel,Hybrid,7,3,42.86
+Israel,Manual,6,3,50.00
+Israel,Store_Run,6,2,33.33
+Italy,Automatic,5,2,40.00
+Italy,Hybrid,9,5,55.56
+Italy,Manual,6,4,66.67
+Italy,Store_Run,5,4,80.00
+Netherlands,Automatic,6,1,16.67
+Netherlands,Hybrid,6,2,33.33
+Netherlands,Manual,9,2,22.22
+Netherlands,Store_Run,8,5,62.50
+Spain,Automatic,9,3,33.33
+Spain,Hybrid,3,2,66.67
+Spain,Manual,3,2,66.67
+Spain,Store_Run,6,2,33.33
+"United Kingdom",Automatic,7,3,42.86
+"United Kingdom",Hybrid,5,3,60.00
+"United Kingdom",Manual,10,5,50.00
+"United Kingdom",Store_Run,8,3,37.50
+"United States",Automatic,4,2,50.00
+"United States",Hybrid,6,5,83.33
+"United States",Manual,6,3,50.00
+"United States",Store_Run,4,3,75.00

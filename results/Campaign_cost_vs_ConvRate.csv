@@ -1,0 +1,5 @@
+performance_quadrant,num_campaigns,avg_cpc_in_group,avg_cvr_in_group
+"Low Cost Low ConvRate",150,1.51,3.34
+"Low Cost High ConvRate",99,1.92,4.89
+"High Cost High ConvRate",81,5.52,4.99
+"High Cost Low ConvRate",70,4.84,3.83

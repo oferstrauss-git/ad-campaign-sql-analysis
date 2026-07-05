@@ -1,0 +1,121 @@
+country,campaign_type,funnel_stage,metric_total,cumulative_drop_off_pct
+Australia,Automatic,1_impression,7022717,0.00
+Australia,Automatic,2_click,129193,98.16
+Australia,Automatic,3_conversion,5266,99.93
+Australia,Hybrid,1_impression,12411338,0.00
+Australia,Hybrid,2_click,280423,97.74
+Australia,Hybrid,3_conversion,13514,99.89
+Australia,Manual,1_impression,7282529,0.00
+Australia,Manual,2_click,182324,97.50
+Australia,Manual,3_conversion,9723,99.87
+Australia,Store_Run,1_impression,25783874,0.00
+Australia,Store_Run,2_click,413825,98.40
+Australia,Store_Run,3_conversion,14910,99.94
+Canada,Automatic,1_impression,61915377,0.00
+Canada,Automatic,2_click,1134679,98.17
+Canada,Automatic,3_conversion,45599,99.93
+Canada,Hybrid,1_impression,16320830,0.00
+Canada,Hybrid,2_click,380047,97.67
+Canada,Hybrid,3_conversion,18117,99.89
+Canada,Manual,1_impression,10456271,0.00
+Canada,Manual,2_click,259177,97.52
+Canada,Manual,3_conversion,13867,99.87
+Canada,Store_Run,1_impression,30004132,0.00
+Canada,Store_Run,2_click,490881,98.36
+Canada,Store_Run,3_conversion,17796,99.94
+France,Automatic,1_impression,10287266,0.00
+France,Automatic,2_click,187058,98.18
+France,Automatic,3_conversion,7473,99.93
+France,Hybrid,1_impression,14407933,0.00
+France,Hybrid,2_click,321684,97.77
+France,Hybrid,3_conversion,14848,99.90
+France,Manual,1_impression,10678118,0.00
+France,Manual,2_click,270452,97.47
+France,Manual,3_conversion,14600,99.86
+France,Store_Run,1_impression,25483835,0.00
+France,Store_Run,2_click,414024,98.38
+France,Store_Run,3_conversion,14761,99.94
+Germany,Automatic,1_impression,24417994,0.00
+Germany,Automatic,2_click,456731,98.13
+Germany,Automatic,3_conversion,18420,99.92
+Germany,Hybrid,1_impression,7046574,0.00
+Germany,Hybrid,2_click,159059,97.74
+Germany,Hybrid,3_conversion,7238,99.90
+Germany,Manual,1_impression,7624501,0.00
+Germany,Manual,2_click,190611,97.50
+Germany,Manual,3_conversion,10445,99.86
+Germany,Store_Run,1_impression,25836012,0.00
+Germany,Store_Run,2_click,420080,98.37
+Germany,Store_Run,3_conversion,14961,99.94
+Israel,Automatic,1_impression,31164195,0.00
+Israel,Automatic,2_click,565925,98.18
+Israel,Automatic,3_conversion,22699,99.93
+Israel,Hybrid,1_impression,13495986,0.00
+Israel,Hybrid,2_click,302066,97.76
+Israel,Hybrid,3_conversion,14041,99.90
+Israel,Manual,1_impression,7261518,0.00
+Israel,Manual,2_click,179660,97.53
+Israel,Manual,3_conversion,9462,99.87
+Israel,Store_Run,1_impression,25551015,0.00
+Israel,Store_Run,2_click,405769,98.41
+Israel,Store_Run,3_conversion,14597,99.94
+Italy,Automatic,1_impression,4883072,0.00
+Italy,Automatic,2_click,89053,98.18
+Italy,Automatic,3_conversion,3556,99.93
+Italy,Hybrid,1_impression,7324374,0.00
+Italy,Hybrid,2_click,167224,97.72
+Italy,Hybrid,3_conversion,7696,99.89
+Italy,Manual,1_impression,5220897,0.00
+Italy,Manual,2_click,129696,97.52
+Italy,Manual,3_conversion,6917,99.87
+Italy,Store_Run,1_impression,3294702,0.00
+Italy,Store_Run,2_click,53056,98.39
+Italy,Store_Run,3_conversion,1759,99.95
+Netherlands,Automatic,1_impression,4271409,0.00
+Netherlands,Automatic,2_click,76485,98.21
+Netherlands,Automatic,3_conversion,2951,99.93
+Netherlands,Hybrid,1_impression,12301318,0.00
+Netherlands,Hybrid,2_click,280084,97.72
+Netherlands,Hybrid,3_conversion,13087,99.89
+Netherlands,Manual,1_impression,10286599,0.00
+Netherlands,Manual,2_click,250973,97.56
+Netherlands,Manual,3_conversion,13419,99.87
+Netherlands,Store_Run,1_impression,21403869,0.00
+Netherlands,Store_Run,2_click,343924,98.39
+Netherlands,Store_Run,3_conversion,12371,99.94
+Spain,Automatic,1_impression,9711280,0.00
+Spain,Automatic,2_click,178015,98.17
+Spain,Automatic,3_conversion,7217,99.93
+Spain,Hybrid,1_impression,914551,0.00
+Spain,Hybrid,2_click,20451,97.76
+Spain,Hybrid,3_conversion,883,99.90
+Spain,Manual,1_impression,1398200,0.00
+Spain,Manual,2_click,34376,97.54
+Spain,Manual,3_conversion,1870,99.87
+Spain,Store_Run,1_impression,1329080,0.00
+Spain,Store_Run,2_click,21510,98.38
+Spain,Store_Run,3_conversion,683,99.95
+"United Kingdom",Automatic,1_impression,14253558,0.00
+"United Kingdom",Automatic,2_click,268613,98.12
+"United Kingdom",Automatic,3_conversion,10749,99.92
+"United Kingdom",Hybrid,1_impression,18545090,0.00
+"United Kingdom",Hybrid,2_click,419602,97.74
+"United Kingdom",Hybrid,3_conversion,19750,99.89
+"United Kingdom",Manual,1_impression,13415999,0.00
+"United Kingdom",Manual,2_click,330163,97.54
+"United Kingdom",Manual,3_conversion,17895,99.87
+"United Kingdom",Store_Run,1_impression,10331398,0.00
+"United Kingdom",Store_Run,2_click,163100,98.42
+"United Kingdom",Store_Run,3_conversion,5881,99.94
+"United States",Automatic,1_impression,6386966,0.00
+"United States",Automatic,2_click,118753,98.14
+"United States",Automatic,3_conversion,4890,99.92
+"United States",Hybrid,1_impression,8390806,0.00
+"United States",Hybrid,2_click,187923,97.76
+"United States",Hybrid,3_conversion,8779,99.90
+"United States",Manual,1_impression,11494173,0.00
+"United States",Manual,2_click,286673,97.51
+"United States",Manual,3_conversion,15539,99.86
+"United States",Store_Run,1_impression,6258006,0.00
+"United States",Store_Run,2_click,101152,98.38
+"United States",Store_Run,3_conversion,3623,99.94

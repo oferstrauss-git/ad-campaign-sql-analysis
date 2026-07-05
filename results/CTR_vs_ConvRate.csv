@@ -1,0 +1,41 @@
+campaign_type,country,CTR,ConvRate
+Automatic,Australia,1.84,4.08
+Hybrid,Australia,2.26,4.82
+Manual,Australia,2.50,5.33
+Store_Run,Australia,1.60,3.60
+Automatic,Canada,1.83,4.02
+Hybrid,Canada,2.33,4.77
+Manual,Canada,2.48,5.35
+Store_Run,Canada,1.64,3.63
+Automatic,France,1.82,4.00
+Hybrid,France,2.23,4.62
+Manual,France,2.53,5.40
+Store_Run,France,1.62,3.57
+Automatic,Germany,1.87,4.03
+Hybrid,Germany,2.26,4.55
+Manual,Germany,2.50,5.48
+Store_Run,Germany,1.63,3.56
+Automatic,Israel,1.82,4.01
+Hybrid,Israel,2.24,4.65
+Manual,Israel,2.47,5.27
+Store_Run,Israel,1.59,3.60
+Automatic,Italy,1.82,3.99
+Hybrid,Italy,2.28,4.60
+Manual,Italy,2.48,5.33
+Store_Run,Italy,1.61,3.32
+Automatic,Netherlands,1.79,3.86
+Hybrid,Netherlands,2.28,4.67
+Manual,Netherlands,2.44,5.35
+Store_Run,Netherlands,1.61,3.60
+Automatic,Spain,1.83,4.05
+Hybrid,Spain,2.24,4.32
+Manual,Spain,2.46,5.44
+Store_Run,Spain,1.62,3.18
+Automatic,"United Kingdom",1.88,4.00
+Hybrid,"United Kingdom",2.26,4.71
+Manual,"United Kingdom",2.46,5.42
+Store_Run,"United Kingdom",1.58,3.61
+Automatic,"United States",1.86,4.12
+Hybrid,"United States",2.24,4.67
+Manual,"United States",2.49,5.42
+Store_Run,"United States",1.62,3.58
