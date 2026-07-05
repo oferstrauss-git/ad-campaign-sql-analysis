@@ -19,6 +19,7 @@ seller performance distribution, and conversion funnel health.
 - Which campaigns are low-cost and high-converting?
 - Which Sellers are improving their revenue the most?
 - Which sellers are staying Active the longest?
+- Rolling 3 month ROAS per seller
 
 ## Tools
 MySQL · Advanced SQL (CTEs, Window Functions, Subqueries, Aggregations)
