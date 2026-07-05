@@ -1,1 +1,31 @@
 # ad-campaign-sql-analysis
+# Ad Campaign Performance — SQL Analysis
+
+## Business Context
+A simulated ad-tech retail platform running campaigns across 10 countries,
+400 campaigns, and 115 sellers. The goal is to understand campaign efficiency,
+seller performance distribution, and conversion funnel health.
+
+## Dataset
+- 110,000+ daily rows generated in Python
+- Columns: date, country, campaign_id, campaign_type, seller_id,
+  impressions, clicks, conversions, revenue, gmv
+- Date range: Jan 2023 – Jun 2024
+
+## Key Questions Answered
+- Which campaigns and sellers drive the most revenue? (Pareto/80-20 analysis)
+- How does CTR and CVR vary by campaign type and country?
+- What does the conversion funnel look like across all campaigns?
+- Which campaigns are low-cost and high-converting?
+- Which Sellers are improving their revenue the most?
+- Which sellers are staying Active the longest?
+
+## Tools
+MySQL · Advanced SQL (CTEs, Window Functions, Subqueries, Aggregations)
+
+## Files
+| File | Description |
+|---|---|
+| `generate_dataset.py` | Python script that generates the synthetic dataset |
+| `analysis_queries.sql` | All analytical SQL queries with comments |
+| `data_sample.csv` | First 500 rows of the dataset for reference |
